@@ -1,5 +1,6 @@
 # NotesApp
 
+Create , Delete , Edit Notes
 Simple Notes App //  SQLite database Connecting DB Browser SQLite
 
 
